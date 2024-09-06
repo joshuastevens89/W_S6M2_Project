@@ -1,7 +1,7 @@
 import React from 'react';
 import Post from './Post';
 
-const Posts = (props) => {
+  const Posts = (props) => {
   // 🔥 Make sure the parent of Posts is passing the right props!
   const { likePost, posts } = props;
 
